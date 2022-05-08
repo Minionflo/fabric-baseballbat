@@ -1,0 +1,256 @@
+{
+	"meta": {
+		"format_version": "4.0",
+		"creation_time": 1649875176,
+		"model_format": "java_block",
+		"box_uv": false
+	},
+	"name": "gold_baseballbat",
+	"parent": "",
+	"ambientocclusion": true,
+	"front_gui_light": false,
+	"visible_box": [1, 1, 0],
+	"variable_placeholders": "",
+	"resolution": {
+		"width": 16,
+		"height": 16
+	},
+	"elements": [
+		{
+			"name": "Bat knob",
+			"rescale": false,
+			"locked": false,
+			"from": [6, 0, 6],
+			"to": [10, 1, 10],
+			"autouv": 0,
+			"color": 7,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [1, 13, 7, 15],
+					"texture": 0
+				},
+				"east": {
+					"uv": [1, 13, 7, 15],
+					"texture": 0
+				},
+				"south": {
+					"uv": [1, 13, 7, 15],
+					"texture": 0
+				},
+				"west": {
+					"uv": [1, 13, 7, 15],
+					"texture": 0
+				},
+				"up": {
+					"uv": [7, 15, 1, 9],
+					"texture": 0
+				},
+				"down": {
+					"uv": [7, 9, 1, 15],
+					"texture": 0
+				}
+			},
+			"uuid": "37f14d6b-3bb6-cfb9-943b-552e764284bf"
+		},
+		{
+			"name": "Bat down",
+			"rescale": false,
+			"locked": false,
+			"from": [6, 7, 6],
+			"to": [10, 9, 10],
+			"autouv": 0,
+			"color": 3,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [1, 13, 7, 15],
+					"texture": 0
+				},
+				"east": {
+					"uv": [1, 13, 7, 15],
+					"texture": 0
+				},
+				"south": {
+					"uv": [1, 13, 7, 15],
+					"texture": 0
+				},
+				"west": {
+					"uv": [1, 13, 7, 15],
+					"texture": 0
+				},
+				"up": {
+					"uv": [7, 15, 1, 9],
+					"texture": 0
+				},
+				"down": {
+					"uv": [7, 9, 1, 15],
+					"texture": 0
+				}
+			},
+			"uuid": "ed5784b9-6390-b714-96d5-e2d61f678342"
+		},
+		{
+			"name": "Bat top",
+			"rescale": false,
+			"locked": false,
+			"from": [6, 24, 6],
+			"to": [10, 26, 10],
+			"autouv": 0,
+			"color": 3,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [2, 10, 7, 15],
+					"texture": 0
+				},
+				"east": {
+					"uv": [2, 10, 7, 15],
+					"texture": 0
+				},
+				"south": {
+					"uv": [2, 10, 7, 15],
+					"texture": 0
+				},
+				"west": {
+					"uv": [2, 10, 7, 15],
+					"texture": 0
+				},
+				"up": {
+					"uv": [15, 7, 9, 1],
+					"texture": 0
+				},
+				"down": {
+					"uv": [15, 1, 9, 7],
+					"texture": 0
+				}
+			},
+			"uuid": "ffcc3c71-ebfc-e068-9919-9a4786ba6054"
+		},
+		{
+			"name": "Bat Base",
+			"rescale": false,
+			"locked": false,
+			"from": [5, 9, 5],
+			"to": [11, 25, 11],
+			"autouv": 0,
+			"color": 4,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [8, 0, 16, 16],
+					"texture": 0
+				},
+				"east": {
+					"uv": [8, 0, 16, 16],
+					"texture": 0
+				},
+				"south": {
+					"uv": [8, 0, 16, 16],
+					"texture": 0
+				},
+				"west": {
+					"uv": [8, 0, 16, 16],
+					"texture": 0
+				},
+				"up": {
+					"uv": [8, 16, 0, 8],
+					"texture": 0
+				},
+				"down": {
+					"uv": [8, 0, 0, 8],
+					"texture": 0
+				}
+			},
+			"uuid": "795fbc5b-55cc-bba7-b6fd-45f134596fad"
+		},
+		{
+			"name": "Bat handle",
+			"rescale": false,
+			"locked": false,
+			"from": [7, 1, 7],
+			"to": [9, 7, 9],
+			"autouv": 0,
+			"color": 5,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [11, 7, 13, 13],
+					"texture": 0
+				},
+				"east": {
+					"uv": [11, 7, 13, 13],
+					"texture": 0
+				},
+				"south": {
+					"uv": [11, 7, 13, 13],
+					"texture": 0
+				},
+				"west": {
+					"uv": [11, 7, 13, 13],
+					"texture": 0
+				},
+				"up": {
+					"uv": [13, 7, 11, 5],
+					"texture": 0
+				},
+				"down": {
+					"uv": [13, 5, 11, 7],
+					"texture": 0
+				}
+			},
+			"uuid": "dee8e176-1ea3-54e9-ef19-ee03315e970d"
+		}
+	],
+	"outliner": ["37f14d6b-3bb6-cfb9-943b-552e764284bf", "dee8e176-1ea3-54e9-ef19-ee03315e970d", "ed5784b9-6390-b714-96d5-e2d61f678342", "ffcc3c71-ebfc-e068-9919-9a4786ba6054", "795fbc5b-55cc-bba7-b6fd-45f134596fad"],
+	"textures": [
+		{
+			"path": "/home/minionflo/Nextcloud/Github/fabric-example-mod/src/main/resources/assets/baseballbat/textures/item/gold_block.png",
+			"name": "gold_block.png",
+			"folder": "item",
+			"namespace": "baseballbat",
+			"id": "0",
+			"particle": true,
+			"render_mode": "default",
+			"visible": true,
+			"mode": "bitmap",
+			"saved": true,
+			"uuid": "534409b8-10cc-33a4-de6b-8e79f3f3a46b",
+			"relative_path": "../../textures/item/gold_block.png",
+			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABdElEQVQ4T6VSPUsDQRCdhYjxPAjBoFXAD6JCrCzsTRUsLVKmFRv/g7WdhWBr6Q+w1N7Ws4iFFlbKyRE4zwQCJ292Z7IrYgqnyV5m39uZ9555uNgt6R9lQLDTazJFuXRC5uPc0tX3Kbm84qP0Kc1sr3XIP+hPCVyzrEZkml2i7I6S61e+uL73SZXhhM+TWoUWGmt8Rwnax2dkBqfkg/kFR7C5NWQgCmCUiee5rxOU+Zj/lML34827ThDFK/wAg0cFUaMeEvg6MtmooOQ2txp0YgZwpRkV+Ruv9DSouQmO+rwzC5mPlUsm8EUUMC4pgf/6b+f2wTJPBDAKr0OT5/tFO8EsAl6BSAlwhiZYMRBRBcIq1UhFFAIhYRudRpagE1sLoS7KCSY2+gToQaev9GW6AoKCkXww1PZdwP7R6nbghGqgBD+swgUU+hogJ2agAZI2t9HSkPg+aw6c0uIECGEzayBZl7hK7uGzEAhQEhlEeZaNf/W/AeMH8bGSri/kAAAAAElFTkSuQmCC"
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 1.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-26, -1, -6],
+			"translation": [2, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-26, -1, -6],
+			"translation": [2, 1, 0]
+		},
+		"ground": {
+			"rotation": [74.5, 0, 0],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [-2, -2.5, 0],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 45],
+			"translation": [2.25, -2.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

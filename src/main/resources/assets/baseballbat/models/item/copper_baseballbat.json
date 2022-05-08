@@ -1,0 +1,107 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "baseballbat:item/copper_block",
+		"particle": "baseballbat:item/copper_block"
+	},
+	"elements": [
+		{
+			"name": "Bat knob",
+			"from": [6, 0, 6],
+			"to": [10, 1, 10],
+			"faces": {
+				"north": {"uv": [1, 13, 15, 15], "texture": "#0"},
+				"east": {"uv": [1, 13, 15, 15], "texture": "#0"},
+				"south": {"uv": [1, 13, 15, 15], "texture": "#0"},
+				"west": {"uv": [1, 13, 15, 15], "texture": "#0"},
+				"up": {"uv": [15, 15, 1, 1], "texture": "#0"},
+				"down": {"uv": [15, 1, 1, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Bat handle",
+			"from": [7, 1, 7],
+			"to": [9, 7, 9],
+			"faces": {
+				"north": {"uv": [9, 7, 13, 15], "texture": "#0"},
+				"east": {"uv": [9, 7, 13, 15], "texture": "#0"},
+				"south": {"uv": [9, 7, 13, 15], "texture": "#0"},
+				"west": {"uv": [9, 7, 13, 15], "texture": "#0"},
+				"up": {"uv": [13, 7, 11, 5], "texture": "#0"},
+				"down": {"uv": [13, 5, 11, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Bat down",
+			"from": [6, 7, 6],
+			"to": [10, 9, 10],
+			"faces": {
+				"north": {"uv": [2, 10, 14, 15], "texture": "#0"},
+				"east": {"uv": [2, 10, 14, 15], "texture": "#0"},
+				"south": {"uv": [2, 10, 14, 15], "texture": "#0"},
+				"west": {"uv": [2, 10, 14, 15], "texture": "#0"},
+				"up": {"uv": [15, 15, 1, 1], "texture": "#0"},
+				"down": {"uv": [15, 1, 1, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Bat top",
+			"from": [6, 24, 6],
+			"to": [10, 26, 10],
+			"faces": {
+				"north": {"uv": [2, 13, 14, 15], "texture": "#0"},
+				"east": {"uv": [2, 13, 14, 15], "texture": "#0"},
+				"south": {"uv": [2, 13, 14, 15], "texture": "#0"},
+				"west": {"uv": [2, 13, 14, 15], "texture": "#0"},
+				"up": {"uv": [13, 14, 3, 2], "texture": "#0"},
+				"down": {"uv": [15, 1, 1, 15], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Bat Base",
+			"from": [5, 9, 5],
+			"to": [11, 25, 11],
+			"faces": {
+				"north": {"uv": [4, 1, 12, 15], "texture": "#0"},
+				"east": {"uv": [4, 1, 12, 15], "texture": "#0"},
+				"south": {"uv": [4, 1, 12, 15], "texture": "#0"},
+				"west": {"uv": [4, 1, 12, 15], "texture": "#0"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-26, -1, -6],
+			"translation": [2, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-26, -1, -6],
+			"translation": [2, 1, 0]
+		},
+		"ground": {
+			"rotation": [75, 0, 0],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [-2, -2.5, 0],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 45],
+			"translation": [2.25, -2.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}

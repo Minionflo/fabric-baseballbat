@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "baseballbat:diamond_baseballbat"
+    },
+    "addition": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "result": {
+        "item": "baseballbat:netherite_baseballbat",
+        "count": 1
+    }
+}
+

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        " C ",
+        " S "
+    ],
+    "key": {
+        "C": {
+        "item": "minecraft:smooth_stone"
+        },
+        "S": {
+        "item": "minecraft:stone"
+        }
+    },
+    "result": {
+        "item": "baseballbat:stone_baseballbat",
+        "count": 1
+    }
+}
+

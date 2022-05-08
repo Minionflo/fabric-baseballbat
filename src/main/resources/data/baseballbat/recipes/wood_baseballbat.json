@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " L ",
+        " L ",
+        " L "
+    ],
+    "key": {
+        "L": {
+        "tag": "minecraft:logs"
+        }
+    },
+    "result": {
+        "item": "baseballbat:wood_baseballbat",
+        "count": 1
+    }
+}
+

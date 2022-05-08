@@ -1,0 +1,271 @@
+{
+	"meta": {
+		"format_version": "4.0",
+		"creation_time": 1649874792,
+		"model_format": "java_block",
+		"box_uv": false
+	},
+	"name": "stone_baseballbat",
+	"parent": "",
+	"ambientocclusion": true,
+	"front_gui_light": false,
+	"visible_box": [1, 1, 0],
+	"variable_placeholders": "",
+	"resolution": {
+		"width": 16,
+		"height": 16
+	},
+	"elements": [
+		{
+			"name": "Bat knob",
+			"rescale": false,
+			"locked": false,
+			"from": [6, 0, 6],
+			"to": [10, 1, 10],
+			"autouv": 0,
+			"color": 7,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [1, 13, 15, 15],
+					"texture": 1
+				},
+				"east": {
+					"uv": [1, 13, 15, 15],
+					"texture": 1
+				},
+				"south": {
+					"uv": [1, 13, 15, 15],
+					"texture": 1
+				},
+				"west": {
+					"uv": [1, 13, 15, 15],
+					"texture": 1
+				},
+				"up": {
+					"uv": [15, 15, 1, 1],
+					"texture": 1
+				},
+				"down": {
+					"uv": [15, 1, 1, 15],
+					"texture": 1
+				}
+			},
+			"uuid": "37f14d6b-3bb6-cfb9-943b-552e764284bf"
+		},
+		{
+			"name": "Bat down",
+			"rescale": false,
+			"locked": false,
+			"from": [6, 7, 6],
+			"to": [10, 11, 10],
+			"autouv": 0,
+			"color": 3,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8, 8],
+					"texture": 0
+				},
+				"east": {
+					"uv": [0, 0, 8, 8],
+					"texture": 0
+				},
+				"south": {
+					"uv": [0, 0, 8, 8],
+					"texture": 0
+				},
+				"west": {
+					"uv": [0, 0, 8, 8],
+					"texture": 0
+				},
+				"up": {
+					"uv": [8, 8, 0, 0],
+					"texture": 0
+				},
+				"down": {
+					"uv": [8, 0, 0, 8],
+					"texture": 0
+				}
+			},
+			"uuid": "ed5784b9-6390-b714-96d5-e2d61f678342"
+		},
+		{
+			"name": "Bat top",
+			"rescale": false,
+			"locked": false,
+			"from": [6, 21, 6],
+			"to": [10, 26, 10],
+			"autouv": 0,
+			"color": 3,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [0, 0, 8, 2],
+					"texture": 0
+				},
+				"east": {
+					"uv": [0, 0, 8, 2],
+					"texture": 0
+				},
+				"south": {
+					"uv": [0, 0, 8, 2],
+					"texture": 0
+				},
+				"west": {
+					"uv": [0, 0, 8, 2],
+					"texture": 0
+				},
+				"up": {
+					"uv": [8, 16, 0, 8],
+					"texture": 0
+				},
+				"down": {
+					"uv": [7, 9, 1, 15],
+					"texture": 0
+				}
+			},
+			"uuid": "ffcc3c71-ebfc-e068-9919-9a4786ba6054"
+		},
+		{
+			"name": "Bat handle",
+			"rescale": false,
+			"locked": false,
+			"from": [7, 1, 7],
+			"to": [9, 7, 9],
+			"autouv": 0,
+			"color": 5,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [8, 0, 16, 16],
+					"texture": 1
+				},
+				"east": {
+					"uv": [8, 0, 16, 16],
+					"texture": 1
+				},
+				"south": {
+					"uv": [8, 0, 16, 16],
+					"texture": 1
+				},
+				"west": {
+					"uv": [8, 0, 16, 16],
+					"texture": 1
+				},
+				"up": {
+					"uv": [13, 7, 11, 5],
+					"texture": 1
+				},
+				"down": {
+					"uv": [13, 5, 11, 7],
+					"texture": 1
+				}
+			},
+			"uuid": "dee8e176-1ea3-54e9-ef19-ee03315e970d"
+		},
+		{
+			"name": "Bat Base",
+			"rescale": false,
+			"locked": false,
+			"from": [5, 9, 5],
+			"to": [11, 25, 11],
+			"autouv": 0,
+			"color": 4,
+			"origin": [0, 0, 0],
+			"faces": {
+				"north": {
+					"uv": [8, 0, 16, 16],
+					"texture": 0
+				},
+				"east": {
+					"uv": [8, 0, 16, 16],
+					"texture": 0
+				},
+				"south": {
+					"uv": [8, 0, 16, 16],
+					"texture": 0
+				},
+				"west": {
+					"uv": [8, 0, 16, 16],
+					"texture": 0
+				},
+				"up": {
+					"uv": [8, 16, 0, 7],
+					"texture": 0
+				},
+				"down": {
+					"uv": [8, 0, 0, 7],
+					"texture": 0
+				}
+			},
+			"uuid": "795fbc5b-55cc-bba7-b6fd-45f134596fad"
+		}
+	],
+	"outliner": ["37f14d6b-3bb6-cfb9-943b-552e764284bf", "dee8e176-1ea3-54e9-ef19-ee03315e970d", "ed5784b9-6390-b714-96d5-e2d61f678342", "ffcc3c71-ebfc-e068-9919-9a4786ba6054", "795fbc5b-55cc-bba7-b6fd-45f134596fad"],
+	"textures": [
+		{
+			"path": "/home/minionflo/Nextcloud/Github/fabric-example-mod/src/main/resources/assets/baseballbat/textures/item/smooth_stone.png",
+			"name": "smooth_stone.png",
+			"folder": "item",
+			"namespace": "baseballbat",
+			"id": "0",
+			"particle": true,
+			"render_mode": "default",
+			"visible": true,
+			"mode": "bitmap",
+			"saved": true,
+			"uuid": "e91aa7f4-3bab-1e70-b413-9e19dfefe101",
+			"relative_path": "../../textures/item/smooth_stone.png",
+			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABaklEQVQ4T11TMaqDUBB8FooggoWNWAVsUgXB0mPZewQvJohVGsEqpEkRFEG0MMz6x7+6zdO36+zM7GqVZblN02Q8zzMIPCPiODbf7/f0jvvX6yW1QRBI3iqKYkMxEjhZRAAURlF0gDuOI8+2bZv3+70DPB4PsyyLJFjw+XwEFIE8P5KHv6jr2liQkKbpcTmO44FOuszP8yx167rKiSbC4KqZUqAREm63m25s2EQYACDPc0P0K0UYdr/fpStkQiLPruuMVVXVRpNc1z1JAUUE8wCBeScPAMBxaep6nGEYHl3xse/7gtE0zW4iZ8p9wKn3IMuywzwyANu+73cPWKD1gy4l0ET4pGUKAwJQH0cEo4ZhkG1LkkS0M8dnGSMkwGUd7IIOHCOnpBmIBJgIkxhAZxEKsEzcRL2txypzE9FBUwQgFoV7wAZ6lM/n8/9f4K5fKeJem8gmuG/bdveAY8MlTENwtOzMvcC7/p1/VwwefCofxz0AAAAASUVORK5CYII="
+		},
+		{
+			"path": "/home/minionflo/Nextcloud/Github/fabric-example-mod/src/main/resources/assets/baseballbat/textures/item/stone.png",
+			"name": "stone.png",
+			"folder": "item",
+			"namespace": "baseballbat",
+			"id": "1",
+			"particle": false,
+			"render_mode": "default",
+			"visible": true,
+			"mode": "bitmap",
+			"saved": true,
+			"uuid": "b4c77eff-1592-ffa9-9633-190adc248c6f",
+			"relative_path": "../../textures/item/stone.png",
+			"source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA9klEQVQ4T3WTMQ6FMAxD6QwDGwMX5ADsHIFTMrAxwMyXI73KRP1ZCknqxE5a9n1/O7PrurrnecLT93183/fdDcNQfZ5ftm0LACVyQWfLzvMMt8DIDQCqEOSyV6ajDFw7GMcxYqKgb50y93MZivov67q+tOwBpwMIAMdxBIUAEAWv2OIOMJQ453n+duCVVEUJMn1jWeCgoKBQEbE1tkwPwOJ78E9AxM30BPqZAsq7+n45i6n8sizLO03TZ5EypbxgnzGyid5ea/bE877UTXSVGau/CcV9lRG6ipgfkS60lHdf7AFv4d+uZ+WzkHUKrREBmjXh5Sr+A8Eqyew5766SAAAAAElFTkSuQmCC"
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2, 1.75]
+		},
+		"firstperson_righthand": {
+			"rotation": [-26, -1, -6],
+			"translation": [2, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-26, -1, -6],
+			"translation": [2, 1, 0]
+		},
+		"ground": {
+			"rotation": [74.5, 0, 0],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"gui": {
+			"rotation": [0, 0, -45],
+			"translation": [-2, -2.5, 0],
+			"scale": [0.58, 0.58, 0.58]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		},
+		"fixed": {
+			"rotation": [0, 0, 45],
+			"translation": [2.25, -2.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	}
+}
